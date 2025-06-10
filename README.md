@@ -2,7 +2,6 @@
 
 A secure and minimal password manager built with Kotlin, Jetpack Security, and Android Biometric APIs. Store your passwords locally using AES-256 encryption and unlock them using your fingerprint or face authentication.
 
----
 
 ## ✨ Features
 
@@ -11,7 +10,6 @@ A secure and minimal password manager built with Kotlin, Jetpack Security, and A
 - 🌙 Clean UI with dark mode compatibility
 - 🧠 Local-only (no internet or server required)
 
----
 
 ## 🚀 How to Run
 
@@ -29,7 +27,6 @@ git clone https://github.com/your-username/secure-password-manager-kotlin.git
 ### 4. Build and Run
 - Hit the **Run** button or use `Shift + F10` in Android Studio.
 
----
 
 ## 📦 Requirements
 
